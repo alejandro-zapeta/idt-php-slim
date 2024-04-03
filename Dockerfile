@@ -14,4 +14,4 @@ RUN curl -sS https://getcomposer.org/installer | \
 RUN composer install --no-dev --no-interaction -o
 
 EXPOSE 9090
-CMD php -S 127.0.0.1:9090 -t public/
+CMD php -S localhost:9090 -t public/
