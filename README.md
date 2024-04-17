@@ -1,5 +1,5 @@
 Hi!
-I developed this CRUD using Eloquent + PHP + Slim + PostgreSQL + Docker 
+I developed this CRUD using Eloquent + PHP 8 + Slim + PostgreSQL + Docker 
 Feel free to use it as an example!
 
 Have a good one!
