@@ -11,10 +11,10 @@ return static function (App $app) {
     $capsule = new Illuminate\Database\Capsule\Manager;
     $capsule->addConnection([
         'driver' => 'pgsql',
-        'host' => '95.111.230.5',
-        'database' => 'postgres',
-        'username' => 'postgres',
-        'password' => 'Manzana9090',
+        'host' => 'XX',
+        'database' => 'XXX',
+        'username' => 'XX',
+        'password' => 'XXX',
         'charset'   => 'utf8',
         'collation' => 'utf8_unicode_ci',
         'prefix'    => '',
